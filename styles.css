@@ -3,7 +3,8 @@
 }
 
 #title {
-    color: whitesmoke;
+    color: black;
+    background-color: white;
     font-family: 'Courier New', monospace;
     font-weight: 900;
 }
@@ -11,4 +12,13 @@
 .r_link {
     color: yellow;
     font-family: 'Courier New', monospace;
+}
+
+.body {
+    color: yellow;
+    font-family: 'Courier New', monospace;
+}
+
+.body.heading {
+    color: whitesmoke
 }
