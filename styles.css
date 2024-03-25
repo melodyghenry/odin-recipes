@@ -1,13 +1,14 @@
-#title {
-    color:aqua;
-    ;
+* {
+    background-color: black;
 }
 
-.btn {
-    .btn {
-        text-decoration: none;
-        padding: 0.5rem;
-        border: 1px solid #333333;
-      }
-      
+#title {
+    color: whitesmoke;
+    font-family: 'Courier New', monospace;
+    font-weight: 900;
+}
+
+.r_link {
+    color: yellow;
+    font-family: 'Courier New', monospace;
 }
